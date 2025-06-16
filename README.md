@@ -1,6 +1,5 @@
 <div align="center">
   <h1>👋 Hello, I'm Fajrin Suhar</h1>
-  <h3>🚀 Full Stack Developer | Computer Science Student</h3>
 </div>
 
 ---
