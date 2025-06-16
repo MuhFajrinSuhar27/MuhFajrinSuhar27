@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hello%2C+I'm+Fajrin+Suhar+%F0%9F%91%8B;Full+Stack+Web+Developer+%F0%9F%92%BB;Computer+Science+Student+%F0%9F%8E%93;Always+Learning+%26+Growing+%F0%9F%8C%B1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hello%2C+I'm+Fajrin+Suhar+%F0%9F%91%8B;Usseles+Web+Developer+%F0%9F%92%BB;Computer+Science+Student+%F0%9F%8E%93;Always+Learning+%26+Growing+%F0%9F%8C%B1" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -88,29 +88,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
-## 🌟 What I'm Currently Working On
 
-```javascript
-const fajrin = {
-    pronouns: "He" | "Him",
-    code: ["JavaScript", "Python", "Java", "PHP"],
-    askMeAbout: ["web dev", "tech", "app dev", "photography"],
-    technologies: {
-        frontEnd: {
-            js: ["React", "Vue"],
-            css: ["Tailwind", "Bootstrap"]
-        },
-        backEnd: {
-            js: ["Node", "Express"],
-            php: ["Laravel"],
-            python: ["FastAPI"]
-        },
-        databases: ["MongoDB", "MySQL", "PostgreSQL"],
-        misc: ["Docker", "Socket.IO", "JWT", "REST APIs"]
-    },
-    currentFocus: "Building full-stack applications with modern technologies",
-    funFact: "I debug with console.log() and I'm not ashamed! 🤷‍♂️"
-};
 ```
 
 <div align="center">
