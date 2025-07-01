@@ -11,10 +11,7 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 🎓 **Computer Science Student** at Hasanuddin University  
-💻 **Passionate Full Stack Developer** building amazing web experiences  
-🌱 **Continuous Learner** exploring cutting-edge technologies  
-🎯 **Mission:** Crafting elegant solutions to complex problems  
-🚀 **Dream:** Becoming a world-class software engineer  
+
 
 <br clear="both">
 
